@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Coastal enthusiasts! 👋
 
 
 Welcome to the Coastal Dynamics organisation. This organisation supports a set of Coastal Dynamics Open Education tools, consisting of: 
