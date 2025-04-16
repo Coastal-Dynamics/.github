@@ -9,7 +9,7 @@ Welcome to the Coastal Dynamics organisation. This organisation supports a set o
 
 For now, the following public repositories are available: 
 1. Coastal Codebook: a set of notebooks including required modules and question files (publicly available soon!)
-2. coastal-dynamics: a coastal-dynamics [Python package](https://pypi.org/project/coastal-dynamics/), which is designed for creating interactive questions, complete with a simple grading mechanism.
+2. coastal-dynamics: a [Python package](https://pypi.org/project/coastal-dynamics/), which is designed for creating interactive questions, complete with a simple grading mechanism.
 
 <!--
 
