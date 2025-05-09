@@ -3,7 +3,7 @@
 Welcome to the Coastal Dynamics organisation. This organisation supports a set of Coastal Dynamics Open Education tools developed at Delft University of Technology. The set consists of: 
 
 1. [Coastal Dynamics Open Textbook](https://books.open.tudelft.nl/home/catalog/book/202);
-2. Coastal Codebook: supplementary jupyter notebooks providing interactive exercises with the Textbook;
+2. Coastal Codebook: supplementary Jupyter Notebooks providing interactive exercises with the Textbook;
 3. Coastal Quizbook: quizzes for each Chapter of the Textbook. **Soon these quizzes can be taken online, more information will follow**.
 
 The following public repositories are available: 
