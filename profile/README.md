@@ -2,13 +2,13 @@
 
 Welcome to the Coastal Dynamics organisation. This organisation supports a set of Coastal Dynamics Open Education tools developed at Delft University of Technology. The set consists of: 
 
-1. [Coastal Dynamics Open Textbook](https://books.open.tudelft.nl/home/catalog/book/202)
-2. Coastal Codebook: supplementary jupyter notebooks providing interactive exercises with the Textbook
+1. [Coastal Dynamics Open Textbook](https://books.open.tudelft.nl/home/catalog/book/202);
+2. Coastal Codebook: supplementary jupyter notebooks providing interactive exercises with the Textbook;
 3. Coastal Quizbook: quizzes for each Chapter of the Textbook. **Soon these quizzes can be taken online, more information will follow**.
 
 The following public repositories are available: 
-1. [Coastal Codebook](https://github.com/Coastal-Dynamics/CoastalCodebook): the full set of notebooks, including required modules, images, question files and (a link to) a database
-2. [coastal-dynamics](https://github.com/Coastal-Dynamics/coastal-dynamics): a [Python package](https://pypi.org/project/coastal-dynamics/) designed for creating the interactive questions in the Coastal Codebook, complete with a simple grading mechanism.
+1. [Coastal Codebook](https://github.com/Coastal-Dynamics/CoastalCodebook): the full set of notebooks, including required modules, images, question files and (a link to) a database;
+2. [coastal-dynamics](https://github.com/Coastal-Dynamics/coastal-dynamics): a [Python package](https://pypi.org/project/coastal-dynamics/) designed for creating the interactive questions in the Coastal Codebook, complete with a simple grading mechanism;
 3. Coastal Quizbook: a web-based Python application for quizzes, including conversion scripts from Möbius to the Quizbook (**publicly available soon!**).
 
 ![Quizbook Codebook Team](https://github.com/user-attachments/assets/c971edad-5c24-4b08-8700-644ccf8d3f26)
