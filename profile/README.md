@@ -1,16 +1,18 @@
-## Hello coastal enthusiasts! 👋
+## Hello coastal enthusiasts! 🌊
 
-
-Welcome to the Coastal Dynamics organisation. This organisation supports a set of Coastal Dynamics Open Education tools, consisting of: 
+Welcome to the Coastal Dynamics organisation. This organisation supports a set of Coastal Dynamics Open Education tools developed at Delft University of Technology. The set consists of: 
 
 1. [Coastal Dynamics Open Textbook](https://books.open.tudelft.nl/home/catalog/book/202)
-2. Coastal Codebook: supplementary jupyter notebooks providing interactive exercises with the textbook
-3. Coastal Quizbook: quizzes for each chapter of the textbook
+2. Coastal Codebook: supplementary jupyter notebooks providing interactive exercises with the Textbook
+3. Coastal Quizbook: quizzes for each chapter of the Textbook
 
-For now, the following public repositories are available: 
-1. Coastal Codebook: a set of notebooks including required modules and question files (publicly available soon!)
-2. coastal-dynamics: a [Python package](https://pypi.org/project/coastal-dynamics/), which is designed for creating interactive questions, complete with a simple grading mechanism.
+The following public repositories are available: 
+1. Coastal Codebook: the full set of notebooks including required modules, images, question files and a (link to a) database
+2. coastal-dynamics: a [Python package](https://pypi.org/project/coastal-dynamics/) designed for creating the interactive questions in the Coastal Codebook, complete with a simple grading mechanism.
+3. Coastal Quizbook: the Quizbook application and conversion scripts from the Möbius to the Quizbook (publicly available soon!)
 
+![Quizbook Codebook Team](https://github.com/user-attachments/assets/c971edad-5c24-4b08-8700-644ccf8d3f26)
+From left to right: Judith Bosboom, Stuart Pearson, Lisa Kleinveld, Francisco Duque de Morais Amaro, Charlie Ciaś, Kevin de Bruijn, Vilohit Kaza
 <!--
 
 **Here are some ideas to get you started:**
@@ -21,3 +23,4 @@ For now, the following public repositories are available:
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
