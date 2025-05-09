@@ -12,7 +12,7 @@ The following public repositories are available:
 3. Coastal Quizbook: the Quizbook application and conversion scripts from Möbius to the Quizbook (publicly available soon!)
 
 ![Quizbook Codebook Team](https://github.com/user-attachments/assets/c971edad-5c24-4b08-8700-644ccf8d3f26)
-The 2024-2025 development team, with from left to right: Judith Bosboom, Stuart Pearson, Lisa Kleinveld, Francisco Duque de Morais Amaro, Charlie Ciaś, Kevin de Bruijn, Vilohit Kaza, Valentijn Sessink (not in the photo)
+The 2024-2025 development team, with from left to right: Judith Bosboom, Stuart Pearson, Lisa Kleinveld, Francisco Duque de Morais Amaro, Charlie Ciaś, Kevin de Bruijn, Vilohit Kaza and Valentijn Sessink (not in the photo)
 <!--
 
 **Here are some ideas to get you started:**
