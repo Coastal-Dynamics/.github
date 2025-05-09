@@ -4,7 +4,7 @@ Welcome to the Coastal Dynamics organisation. This organisation supports a set o
 
 1. [Coastal Dynamics Open Textbook](https://books.open.tudelft.nl/home/catalog/book/202)
 2. Coastal Codebook: supplementary jupyter notebooks providing interactive exercises with the Textbook
-3. Coastal Quizbook: quizzes for each chapter of the Textbook
+3. Coastal Quizbook: quizzes for each Chapter of the Textbook
 
 The following public repositories are available: 
 1. [Coastal Codebook](https://github.com/Coastal-Dynamics/CoastalCodebook): the full set of notebooks including required modules, images, question files and (a link to) a database
