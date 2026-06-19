@@ -1,6 +1,6 @@
 ## Hello coastal enthusiasts! 🌊
 
-Welcome to the Coastal Dynamics organisation. This organisation supports a set of Coastal Dynamics Open Education tools developed at Delft University of Technology. The set consists of: 
+Welcome to the Coastal Dynamics organisation. This organisation supports a set of [Coastal Dynamics Open Education tools](https://coastal.citg.tudelft.nl) developed at Delft University of Technology. The set consists of: 
 
 1. [Coastal Dynamics Open Textbook](https://books.open.tudelft.nl/home/catalog/book/202);
 2. Coastal Codebook: supplementary Jupyter Notebooks providing interactive exercises with the Textbook;
