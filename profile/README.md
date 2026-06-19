@@ -11,8 +11,7 @@ The following public repositories are available:
 2. [Coastal Codebook](https://github.com/Coastal-Dynamics/CoastalCodebook): the full set of notebooks, including required modules, images, question files and (a link to) a database;
 3. [coastal-dynamics](https://github.com/Coastal-Dynamics/coastal-dynamics): a [Python package](https://pypi.org/project/coastal-dynamics/) designed for creating the interactive questions in the Coastal Codebook, complete with a simple grading mechanism;
 4. Coastal Quizbook: a web-based Python application for quizzes, including conversion scripts from Möbius to the Quizbook (**publicly available soon!**).
-5. Coastal Bingo
-6. SketchApp
+5. [CoastalBingo](https://github.com/Coastal-Dynamics/CoastalBingo): Coastal Geomorphology Bingo! Sorry, still in Matlab.
 
 ![Quizbook Codebook Team](https://github.com/user-attachments/assets/c971edad-5c24-4b08-8700-644ccf8d3f26)
 The 2024-2025 development team, with from left to right: Judith Bosboom, Stuart Pearson, Lisa Kleinveld, Francisco Duque de Morais Amaro, Charlie Ciaś, Kevin de Bruijn, Vilohit Kaza and Valentijn Sessink (not in the photo)
